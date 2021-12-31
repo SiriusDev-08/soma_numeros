@@ -1,5 +1,6 @@
 import React, {Component} from 'react'; 
 
+{/* Com classes, em desenvolvimento */}
 
 function Somar () {
   const num1 = Number(this.state.num1);

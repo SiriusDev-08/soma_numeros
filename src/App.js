@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
 
+{/* Com função, funcionando normalmente */}
+
 function App() {
 
   const [resultado, setResultado] = React.useState(0);
